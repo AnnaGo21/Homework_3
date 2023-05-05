@@ -17,6 +17,8 @@ public class Animal {
 
     public void increaseAge(){
         age++;
+        System.out.println(getClass().getSimpleName() + " called " + getName() +
+                "'s age was increased to: " + getAge());
     }
 
     public int getAge() {
