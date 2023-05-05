@@ -13,6 +13,7 @@ public class Main {
         cat.speak();
         System.out.println("Name: " + cat.getName() + ", Age: " + cat.getAge() + ", Color: " + cat.getColor());
 
+
         // Required outcome
         /*
         I am an animal.
