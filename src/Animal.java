@@ -15,6 +15,10 @@ public class Animal {
         return name;
     }
 
+    public void increaseAge(){
+        age++;
+    }
+
     public int getAge() {
         return age;
     }
