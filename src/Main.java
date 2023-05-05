@@ -22,5 +22,11 @@ public class Main {
         Meow! Meow!
         Name: Fluffy, Age: 2, Color: White
         */
+
+        System.out.println();
+
+        // Added new function
+        dog.increaseAge();
+        cat.increaseAge();
     }
 }
